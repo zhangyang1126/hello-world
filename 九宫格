@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta name="viewport" charset="utf-8">
+	<style type="text/css">
+	div#container{width: 1000px;margin: 0px auto}
+	div#a{;margin:5px;border-radius: 30px;width: 300px;height: 300px;background-color: gray;float: left;}
+	div#b{;margin:5px;border-radius: 30px;width: 300px;height: 300px;background-color: gray;float: left;}
+	div#c{;margin:5px;border-radius: 30px;width: 300px;height: 300px;background-color: gray;float: left;}
+	div#d{;margin:5px;border-radius: 30px;width: 300px;height: 300px;background-color: gray;float: left;}
+	div#e{;margin:5px;border-radius: 30px;width: 300px;height: 300px;background-color: gray;float: left;}
+	div#f{;margin:5px;border-radius: 30px;width: 300px;height: 300px;background-color: gray;float: left;}
+	div#g{;margin:5px;border-radius: 30px;width: 300px;height: 300px;background-color: gray;float: left;}
+	div#h{;margin:5px;border-radius: 30px;width: 300px;height: 300px;background-color: gray;float: left;}
+	div#i{;margin:5px;border-radius: 30px;width: 300px;height: 300px;background-color: gray;float: left;}
+	</style>
+	<title>task1:九宫格</title>
+
+</head>
+<body>
+
+	<div id="container">
+		<div id="a"></div>
+		<div id="b"></div>
+		<div id="c"></div>
+		<div id="d"></div>
+		<div id="e"></div>
+		<div id="f"></div>
+		<div id="g"></div>
+		<div id="h"></div>
+		<div id="i"></div>
+
+	</div>
+
+</body>
+</html>
